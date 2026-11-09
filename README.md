@@ -434,6 +434,10 @@ GitHub 上那个 fork 留着不管就行，删不删都不影响服务器。
 
 ---
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Kiwi%20Mem/)
+
 ## 和其他方案有什么不同
 
 <details>
